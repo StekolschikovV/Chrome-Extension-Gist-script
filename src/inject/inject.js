@@ -43,7 +43,7 @@ function gistScript() {
         }, 1000);
     }
 
-    checkURLchange();
+    // checkURLchange();
 
 }
 
